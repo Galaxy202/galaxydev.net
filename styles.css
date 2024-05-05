@@ -18,9 +18,6 @@ body {
     margin-top: 1em;
     width: 100%;
 }
-#home {
-    height: 100vh;
-}
 #home > .title {
     font-family: "Space Grotesk", sans-serif;
     width: 100%;
